@@ -1,0 +1,38 @@
+/* navigation bar */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    display: inline-flex;
+    padding: 14px 16px;
+   
+    
+}
+
+.welcome-section {
+
+    background-color: #7052B4;
+    color:white;
+
+}
+
+.favourites {
+
+    background-color: black;
+    color:#DEC9E8;
+}
+
+.team {
+
+    background-color: #7052B4;
+    color:white;
+}
+
+.right {
+    float: right;
+    
+}
